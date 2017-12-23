@@ -152,7 +152,7 @@ class __TwigTemplate_8543a58a67be3221bfa227c865c62811b58a0a247133fa84b7dc6202dab
         <li><a href=\"";
         // line 46
         echo (isset($context["contact"]) ? $context["contact"] : null);
-        echo "\"><i class=\"fa fa-phone\"></i></a> <span class=\"hidden-xs hidden-sm hidden-md\">";
+        echo "\"><i class=\"fa fa-weixin\"></i></a> <span class=\"hidden-xs hidden-sm hidden-md\">";
         echo (isset($context["telephone"]) ? $context["telephone"] : null);
         echo "</span></li>
         <li class=\"dropdown\"><a href=\"";
@@ -350,7 +350,7 @@ class __TwigTemplate_8543a58a67be3221bfa227c865c62811b58a0a247133fa84b7dc6202dab
 /*     {{ language }}*/
 /*     <div id="top-links" class="nav pull-right">*/
 /*       <ul class="list-inline">*/
-/*         <li><a href="{{ contact }}"><i class="fa fa-phone"></i></a> <span class="hidden-xs hidden-sm hidden-md">{{ telephone }}</span></li>*/
+/*         <li><a href="{{ contact }}"><i class="fa fa-weixin"></i></a> <span class="hidden-xs hidden-sm hidden-md">{{ telephone }}</span></li>*/
 /*         <li class="dropdown"><a href="{{ account }}" title="{{ text_account }}" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-xs hidden-sm hidden-md">{{ text_account }}</span> <span class="caret"></span></a>*/
 /*           <ul class="dropdown-menu dropdown-menu-right">*/
 /*             {% if logged %}*/
